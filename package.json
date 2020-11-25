@@ -1,0 +1,26 @@
+{
+  "name": "philippeharchouche_3_16112020",
+  "version": "1.0.0",
+  "description": "Site web restaurant OhMyFood",
+  "main": "index.js",
+  "scripts": {
+    
+    "sass": "sass --watch ./sass/main.scss:./public/css/style.css --style compressed"
+    
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PhilippeH11/PhilippeHARCHOUCHE_3_16112020.git"
+  },
+  "keywords": [
+    "restaurant",
+    "ohmyfood",
+    "menu"
+  ],
+  "author": "Philippe H.",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PhilippeH11/PhilippeHARCHOUCHE_3_16112020/issues"
+  },
+  "homepage": "https://github.com/PhilippeH11/PhilippeHARCHOUCHE_3_16112020#readme"
+}
