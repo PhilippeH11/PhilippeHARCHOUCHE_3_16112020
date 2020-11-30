@@ -1,12 +1,10 @@
 {
-  "name": "philippeharchouche_3_16112020",
+  "name": "ohmyfood",
   "version": "1.0.0",
-  "description": "Site web restaurant OhMyFood",
+  "description": "Restaurant ohmyfood, animations css3",
   "main": "index.js",
   "scripts": {
-    
-    "sass": "sass --watch ./sass/main.scss:./public/css/style.css --style compressed"
-    
+    "sass": "sass --watch ./sass/main.scss:./css/style.css --style compressed"
   },
   "repository": {
     "type": "git",
@@ -14,8 +12,8 @@
   },
   "keywords": [
     "restaurant",
-    "ohmyfood",
-    "menu"
+    "menu",
+    "ohmyfood"
   ],
   "author": "Philippe H.",
   "license": "ISC",
