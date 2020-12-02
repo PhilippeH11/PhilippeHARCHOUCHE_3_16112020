@@ -7,12 +7,16 @@
 @import
 'abstracts/variables',
 'abstracts/mixins',
+'abstracts/animations',
 
 // document base rules
 'base/base',
 
 //components
 'components/intro',
+'components/steps',
+'components/loading',
+'components/button',
 
 // Layout importation
 
