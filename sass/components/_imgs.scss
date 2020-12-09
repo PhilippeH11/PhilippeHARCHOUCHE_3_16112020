@@ -12,4 +12,6 @@
 
 .note {
     @include bgd-img($img-note);
+    background-position: 0 -120px;
+
 }
