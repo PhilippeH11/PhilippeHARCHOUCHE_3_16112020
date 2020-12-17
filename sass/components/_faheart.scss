@@ -35,8 +35,8 @@
   bottom: 10px;
   background: linear-gradient(to top, $clr-secondary, $clr-primary);
   background-clip: text;
-  /* -webkit-background-clip: text;*/
-  -webkit-text-fill-color: transparent;
+  -webkit-background-clip: text;
+  color: transparent;
 }
 
 
