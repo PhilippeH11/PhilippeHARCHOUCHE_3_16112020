@@ -2,6 +2,10 @@ footer {
     background: darken($clr-alt, 65%);
     padding: 1.5em;
     display: flex;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    
     .brand img {
       height: 20px;
       display: block;
@@ -19,3 +23,6 @@ footer {
     }
   }
     
+
+
+  
