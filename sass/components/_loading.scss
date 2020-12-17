@@ -6,8 +6,7 @@
     opacity: 0;
     z-index: -5;
     animation: loadingFade 3s linear 1;
-    
-    
+       
     &__box {
       position: absolute;
       top: 0;
@@ -21,8 +20,8 @@
     &__icon {
       background: linear-gradient(to left, $clr-secondary, $clr-primary);
       background-clip: text;
-      /* -webkit-background-clip: text;*/
-      -webkit-text-fill-color: transparent;
+      -webkit-background-clip: text;
+      color: transparent;
       font-size: 70px;
       z-index: -1;
       animation: loadingSpinner 3s linear 1;
