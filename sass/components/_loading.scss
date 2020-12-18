@@ -20,8 +20,8 @@
     }
     &__icon {
       background: linear-gradient(to left, $clr-secondary, $clr-primary);
-      background-clip: text;
-      /*-webkit-background-clip: text;*/
+      /* background-clip: text;*/
+      -webkit-background-clip: text;
       color: transparent;
       font-size: 70px;
       z-index: -1;
